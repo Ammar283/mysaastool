@@ -17,8 +17,11 @@ export default function Hero5() {
                                 </p>
                              
                                 {/* Button */}
-                                <Link href="#banner-7" className="btn r-04 btn--theme hover--theme">Get started for free</Link>
-                                <Link href="#banner-7" className="btn ms-2 r-04 btn--theme hover--theme">Explore Features</Link>
+                                <div className="btns-group">
+                                            <Link href="#" className="btn r-04 color--theme-blue color-white color--theme-blue-hover ">Get started for free
+                                            </Link>
+                                            <Link href="#" className="btn r-04 btn--tra-black color--theme-blue-hover">Explore Features</Link>
+                                        </div>
                             </div>
                         </div>	{/* END HERO TEXT */}
                         {/* HERO IMAGE */}

@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/demo-5": [
+    "/postly-page": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/demo-5.js"
+      "static/chunks/pages/postly-page.js"
     ]
   },
   "ampFirstPages": []

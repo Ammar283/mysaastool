@@ -9,7 +9,7 @@ export default function Rating1_3() {
                     <div className="row justify-content-center">
                         <div className="col-md-10 col-lg-9">
                             <div className="rating-title mb-40">
-                                <h5 className="s-18 color--grey w-500">Our clients love us as much as we love them</h5>
+                                <h5 className="s-18 color--grey w-500">Discover how Cardify has transformed networking for professionals worldwide.</h5>
                             </div>
                         </div>
                     </div>

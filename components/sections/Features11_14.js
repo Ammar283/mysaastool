@@ -25,7 +25,7 @@ export default function Features11_14() {
                                     {/* Icon */}
                                     <div className="fbox-ico-wrap">
                                         <div className="fbox-ico ico-50">
-                                            <div className="shape-ico color--theme">
+                                            <div className="shape-ico color--theme-blue-fill">
                                                 {/* Vector Icon */}
                                                 <span className="flaticon-graphics" />
                                                 {/* Shape */}
@@ -49,7 +49,7 @@ export default function Features11_14() {
                                     {/* Icon */}
                                     <div className="fbox-ico-wrap">
                                         <div className="fbox-ico ico-50">
-                                            <div className="shape-ico color--theme">
+                                            <div className="shape-ico color--theme-blue-fill">
                                                 {/* Vector Icon */}
                                                 <span className="flaticon-idea" />
                                                 {/* Shape */}
@@ -73,7 +73,7 @@ export default function Features11_14() {
                                     {/* Icon */}
                                     <div className="fbox-ico-wrap">
                                         <div className="fbox-ico ico-50">
-                                            <div className="shape-ico color--theme">
+                                            <div className="shape-ico color--theme-blue-fill">
                                                 {/* Vector Icon */}
                                                 <span className="flaticon-graphic" />
                                                 {/* Shape */}
@@ -97,7 +97,7 @@ export default function Features11_14() {
                                     {/* Icon */}
                                     <div className="fbox-ico-wrap">
                                         <div className="fbox-ico ico-50">
-                                            <div className="shape-ico color--theme">
+                                            <div className="shape-ico color--theme-blue-fill">
                                                 {/* Vector Icon */}
                                                 <span className="flaticon-wireframe" />
                                                 {/* Shape */}
@@ -121,7 +121,7 @@ export default function Features11_14() {
                                     {/* Icon */}
                                     <div className="fbox-ico-wrap">
                                         <div className="fbox-ico ico-50">
-                                            <div className="shape-ico color--theme">
+                                            <div className="shape-ico color--theme-blue-fill">
                                                 {/* Vector Icon */}
                                                 <span className="flaticon-trophy" />
                                                 {/* Shape */}
@@ -145,7 +145,7 @@ export default function Features11_14() {
                                     {/* Icon */}
                                     <div className="fbox-ico-wrap">
                                         <div className="fbox-ico ico-50">
-                                            <div className="shape-ico color--theme">
+                                            <div className="shape-ico color--theme-blue-fill">
                                                 {/* Vector Icon */}
                                                 <span className="flaticon-search-engine-1" />
                                                 {/* Shape */}

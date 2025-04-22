@@ -10,42 +10,17 @@ export default function Features12_1() {
                         <div className="col-md-5">
                             <div className="txt-block left-column wow fadeInRight">
                                 {/* Section ID */}
-                                <span className="section-id">One-Stop Solution</span>
+                                
                                 {/* Title */}
-                                <h2 className="s-46 w-700">Smart solutions, real-time results</h2>
+                                <h2 className="s-46 w-700">Who Can Benefit from Postly?</h2>
                                 {/* Text */}
-                                <p>Sodales tempor sapien quaerat ipsum and congue undo laoreet turpis neque auctor turpis
-                                    vitae dolor luctus placerat magna ligula and cursus vitae
+                                <p>Postly is designed for businesses and professionals looking to streamline social media marketing and boost engagement.
                                 </p>
-                                {/* CONTENT BOX #1 */}
-                                <div className="cbox-1 ico-15">
-                                    <div className="ico-wrap color--theme">
-                                        <div className="cbox-1-ico"><span className="flaticon-check" /></div>
-                                    </div>
-                                    <div className="cbox-1-txt">
-                                        <p>Magna dolor luctus at egestas sapien</p>
-                                    </div>
-                                </div>
+                            
                                 {/* CONTENT BOX #2 */}
-                                <div className="cbox-1 ico-15">
-                                    <div className="ico-wrap color--theme">
-                                        <div className="cbox-1-ico"><span className="flaticon-check" /></div>
-                                    </div>
-                                    <div className="cbox-1-txt">
-                                        <p>Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien
-                                            turpis and ultrice magnis
-                                        </p>
-                                    </div>
-                                </div>
+                               
                                 {/* CONTENT BOX #3 */}
-                                <div className="cbox-1 ico-15">
-                                    <div className="ico-wrap color--theme">
-                                        <div className="cbox-1-ico"><span className="flaticon-check" /></div>
-                                    </div>
-                                    <div className="cbox-1-txt">
-                                        <p className="mb-0">Volute turpis dolores and sagittis congue</p>
-                                    </div>
-                                </div>
+                               
                             </div>
                         </div> {/* END TEXT BLOCK */}
                         {/* FEATURES-12 WRAPPER */}
@@ -57,7 +32,7 @@ export default function Features12_1() {
                                         <div id="fb-12-1" className="fbox-12 bg--white-100 block-shadow r-12 mb-30">
                                             {/* Icon */}
                                             <div className="fbox-ico ico-50">
-                                                <div className="shape-ico color--theme">
+                                                <div className="shape-ico color--theme-purple-fill">
                                                     {/* Vector Icon */}
                                                     <span className="flaticon-layers-1" />
                                                     {/* Shape */}
@@ -68,8 +43,8 @@ export default function Features12_1() {
                                             </div> {/* End Icon */}
                                             {/* Text */}
                                             <div className="fbox-txt">
-                                                <h5 className="s-19 w-700">Content Marketing</h5>
-                                                <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor
+                                                <h5 className="s-19 w-700">Small Businesses</h5>
+                                                <p>Grow your online presence without a dedicated marketing team using automated tools.
                                                 </p>
                                             </div>
                                         </div>
@@ -77,7 +52,7 @@ export default function Features12_1() {
                                         <div id="fb-12-2" className="fbox-12 bg--white-100 block-shadow r-12">
                                             {/* Icon */}
                                             <div className="fbox-ico ico-50">
-                                                <div className="shape-ico color--theme">
+                                                <div className="shape-ico color--theme-purple-fill">
                                                     {/* Vector Icon */}
                                                     <span className="flaticon-tutorial" />
                                                     {/* Shape */}
@@ -88,8 +63,8 @@ export default function Features12_1() {
                                             </div> {/* End Icon */}
                                             {/* Text */}
                                             <div className="fbox-txt">
-                                                <h5 className="s-19 w-700">Video Marketing</h5>
-                                                <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor
+                                                <h5 className="s-19 w-700">Marketing Agencies</h5>
+                                                <p>Manage multiple client accounts efficiently with a unified dashboard.
                                                 </p>
                                             </div>
                                         </div>
@@ -99,7 +74,7 @@ export default function Features12_1() {
                                         <div id="fb-12-3" className="fbox-12 bg--white-100 block-shadow r-12 mb-30">
                                             {/* Icon */}
                                             <div className="fbox-ico ico-50">
-                                                <div className="shape-ico color--theme">
+                                                <div className="shape-ico color--theme-purple-fill">
                                                     {/* Vector Icon */}
                                                     <span className="flaticon-pay-per-click" />
                                                     {/* Shape */}
@@ -110,8 +85,8 @@ export default function Features12_1() {
                                             </div> {/* End Icon */}
                                             {/* Text */}
                                             <div className="fbox-txt">
-                                                <h5 className="s-19 w-700">Pay Per Click (PPC)</h5>
-                                                <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor
+                                                <h5 className="s-19 w-700">E-Commerce Brands </h5>
+                                                <p>Drive sales with targeted content and performance insights.
                                                 </p>
                                             </div>
                                         </div>
@@ -119,7 +94,7 @@ export default function Features12_1() {
                                         <div id="fb-12-4" className="fbox-12 bg--white-100 block-shadow r-12">
                                             {/* Icon */}
                                             <div className="fbox-ico ico-50">
-                                                <div className="shape-ico color--theme">
+                                                <div className="shape-ico color--theme-purple-fill">
                                                     {/* Vector Icon */}
                                                     <span className="flaticon-taxes" />
                                                     {/* Shape */}
@@ -130,8 +105,8 @@ export default function Features12_1() {
                                             </div> {/* End Icon */}
                                             {/* Text */}
                                             <div className="fbox-txt">
-                                                <h5 className="s-19 w-700">Business Analytics</h5>
-                                                <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor
+                                                <h5 className="s-19 w-700">Content Creators</h5>
+                                                <p>Save time on scheduling and focus on creating engaging content.
                                                 </p>
                                             </div>
                                         </div>

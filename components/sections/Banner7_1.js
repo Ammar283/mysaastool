@@ -14,15 +14,16 @@ export default function Banner7_1() {
                                 <div className="col-md-8">
                                     <div className="banner-7-txt text-center">
                                         {/* Title */}
-                                        <h2 className="s-50 w-700">Starting with Martex is easy, fast and free</h2>
+                                        <h2 className="s-50 w-700">Ready to Transform Your Networking?</h2>
+                                        <p className="btn-txt ico-15 mb-3">Join thousands of professionals using Cardify to create and share digital business cards effortlessly.</p>
                                         {/* Buttons */}
                                         <div className="btns-group">
-                                            <Link href="/signup-1" className="btn r-04 btn--theme hover--theme">Get srarted - it's free
+                                            <Link href="/signup-1" className="btn r-04 color--theme-blue color-white color--theme-blue-hover">Sign Up Now
                                             </Link>
-                                            <Link href="/faqs" className="btn r-04 btn--tra-black hover--theme">Read the FAQs</Link>
+                                            <Link href="/faqs" className="btn r-04 btn--tra-black color--theme-blue-hover">Contact Sales</Link>
                                         </div>
                                         {/* Button Text */}
-                                        <p className="btn-txt ico-15">Free for 14 days - no credit card required.</p>
+                                       
                                     </div>
                                 </div>
                             </div>   {/* End row */}

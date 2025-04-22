@@ -392,7 +392,11 @@ hr.divider {
     max-width: inherit;
     max-height: 170px;
 }
-
+.cardify-h175 .img-fluid {
+    max-width: 75%;
+    padding: 50px;
+    height: auto;
+}
 .fbox-txt h5 {
     font-size: 1.425rem;
     margin-bottom: 10px;

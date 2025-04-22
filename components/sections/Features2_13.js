@@ -30,7 +30,7 @@ export default function Features2_13() {
                                     <div className="fbox-txt">
                                         <h6 className="s-22 w-700">Cardify</h6>
                                         <p className="mb-2">Create, share, and update your business card—all in digital format.</p>
-                                            <Link href="#" className="tra-link ico-20 color--theme">
+                                            <Link href="/cardify-page" className="tra-link ico-20 color--theme">
                                                 Learn More <span className="flaticon-next" />
                                             </Link>
                                     </div>
@@ -532,8 +532,8 @@ export default function Features2_13() {
                                     </div>
                                     {/* Text */}
                                     <div className="fbox-txt">
-                                        <h6 className="s-22 w-700">Creately</h6>
-                                        <p className="mb-2">Generate stunning content and images with the power of AI—fast, easy, and smart.</p>
+                                        <h6 className="s-22 w-700">Whatsly</h6>
+                                        <p className="mb-2">Harness the power of WhatsApp Business devices to automate bulk messaging, streamline engagement, and grow your business with Whatsly.</p>
                                             <Link href="#" className="tra-link ico-20 color--theme">
                                                 Learn More <span className="flaticon-next" />
                                             </Link>

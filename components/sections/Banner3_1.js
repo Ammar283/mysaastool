@@ -14,16 +14,19 @@ export default function Banner3_1() {
                                 <div className="col">
                                     <div className="banner-3-txt color--white">
                                         {/* Title */}
-                                        <h2 className="s-48 w-700">Starting with Martex is easy, fast and free</h2>
-                                        {/* Text */}
-                                        <p className="p-xl">It only takes a few clicks to get started</p>
-                                        {/* Button */}
-                                        <Link href="/signup-1" className="btn r-04 btn--theme hover--tra-white">Get srarted -
-                                            it's free</Link>
-                                        {/* Button Text */}
-                                        <p className="p-sm btn-txt ico-15">
-                                            <span className="flaticon-check" /> Free for 14 days, no credit card required.
+                                        <h2 className="s-48 w-700">Ready to Transform Your Social Media?
+                                        </h2>
+                                        <p className="p-sm btn-txt ico-15 mb-3">
+                                            Join thousands of businesses using Postly to automate and optimize their social media marketing. Start your free trial today!
                                         </p>
+                                        {/* Button */}
+                                        <div className="btns-group">
+                                            <Link href="/signup-1" className="btn r-04 color--theme-purple color-white color--theme-purple-hover">Start Free Trial
+                                            </Link>
+                                            <Link href="/faqs" className="btn r-04  color-white color--theme-purple-hover">Contact Sales</Link>
+                                        </div>
+                                        {/* Button Text */}
+                                        
                                     </div>
                                 </div> {/* END BANNER-3 TEXT */}
                             </div> {/* End row */}

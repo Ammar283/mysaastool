@@ -16,21 +16,7 @@ export default function Home() {
                                 <div className="col-md-10 col-lg-8">
                                     <div className="section-title mb-70">
                                         {/* Title */}
-                                        <h2 className="s-52 w-700">Simple, Flexible Pricing</h2>
-                                        {/* TOGGLE BUTTON */}
-                                        <div className="toggle-btn ext-toggle-btn toggle-btn-md mt-30">
-                                            <span className="toggler-txt">Billed monthly</span>
-                                            <label className="switch-wrap">
-                                                <input type="checkbox" id="checbox" onClick={handlePricing} />
-                                                <span className="switcher bg--grey switcher--theme">
-                                                    <span className="show-annual" />
-                                                    <span className="show-monthly" />
-                                                </span>
-                                            </label>
-                                            <span className="toggler-txt">Billed yearly</span>
-                                            {/* Text */}
-                                            <p className="color--theme">Save up to 35% with yearly billing</p>
-                                        </div>
+                                     
                                     </div>
                                 </div>
                             </div>	{/* END SECTION TITLE */}
@@ -43,13 +29,13 @@ export default function Home() {
                                             {/* TABLE HEADER */}
                                             <div className="pricing-table-header">
                                                 {/* Title */}
-                                                <h5 className="s-24 w-700">Starter</h5>
+                                                <h5 className="s-24 w-700">Pro Plan </h5>
                                                 {/* Price */}
                                                 <div className="price">
                                                     <sup className="color--black">$</sup>
                                                     <span className="color--black">0</span>
                                                     <sup className="validity color--grey">/ forever</sup>
-                                                    <p className="color--grey">For professionals getting started with smaller projects.</p>
+                                                    <p className="color--grey">Ideal for freelancers and small businesses with growing needs.</p>
                                                 </div>
                                                 {/* Button */}
                                                 <Link href="#" className="pt-btn btn r-04 btn--theme hover--theme">Get srarted - it's free</Link>
@@ -57,12 +43,14 @@ export default function Home() {
                                             </div>	{/* END TABLE HEADER */}
                                             {/* PRICING FEATURES */}
                                             <ul className="pricing-features color--black ico-10 ico--green mt-25">
-                                                <li><p><span className="flaticon-check" /> 2 free projects</p></li>
-                                                <li><p><span className="flaticon-check" /> 1 GB of cloud storage</p></li>
-                                                <li><p><span className="flaticon-check" /> For personal use</p></li>
-                                                <li className="disabled-option"><p><span className="flaticon-check" /> Weekly data backup</p></li>
-                                                <li className="disabled-option"><p><span className="flaticon-check" /> No Ads. No trackers</p></li>
-                                                <li><p><span className="flaticon-check" /> 12/5 email support</p></li>
+                                                <li><p><span className="flaticon-check" /> 5 Users  </p></li>
+                                                <li><p><span className="flaticon-check" /> 20 Digital Cards</p></li>
+                                                <li><p><span className="flaticon-check" /> QR Code & NFC Support</p></li>
+                                                <li><p><span className="flaticon-check" /> Advanced Analytics</p></li>
+                                                <li><p><span className="flaticon-check" /> Custom Branding</p></li>
+                                                <li><p><span className="flaticon-check" /> Priority Support</p></li>
+                                                <li><p><span className="flaticon-check" /> 10 Templates</p></li>
+                                                <li><p><span className="flaticon-check" /> Social Media Integration</p></li>
                                             </ul>
                                         </div>
                                     </div>	{/* END STARTER PLAN */}

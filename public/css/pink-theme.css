@@ -13151,6 +13151,61 @@ body.theme--dark {
     color: #f74780 !important;
 }
 
+.color--theme-blue
+{
+    
+    background: #477df7 !important;
+
+}
+
+.color--theme-white
+{
+    
+    background: white !important;
+    color: #b633d5 !important;
+}
+
+
+.color--theme-purple
+{
+    
+    background: #b633d5 !important;
+
+}
+.color--theme-purple-fill
+{
+    
+    color: #b633d5 !important;
+
+
+}
+.color--theme-purple-hover:hover
+{
+    
+    border: 2px solid #b633d5 !important;
+    background:transparent !important;
+    color:white !important;
+}
+.color--theme-purple-pricing-hover:hover
+{
+    
+    border: 2px solid #b633d5 !important;
+    background:transparent !important;
+    color:#b633d5 !important;
+}
+
+
+.color--theme-blue-hover:hover
+{
+    
+    border: 2px solid #477df7 !important;
+    background:transparent !important;
+    color:#477df7 !important;
+}
+.color-white{
+    color:white;
+}
+
 .loading--theme .loader {
     border-color: transparent #f74780;
 }
@@ -13194,12 +13249,29 @@ body.theme--dark {
     background-color: #f74780;
     border-color: #f74780;
 }
+.postly-container img.img-fluid {
+    width: 75%;
+}
 
 .shape-ico.color--theme path,
 .shape-ico.color--theme path,
 .shape-ico.color--theme path {
     fill: #feecf2;
 }
+
+.shape-ico.color--theme-blue-fill path,
+.shape-ico.color--theme-blue-fill path,
+.shape-ico.color--theme-blue-fill path {
+    fill: #f3f7ff;
+}
+
+.shape-ico.color--theme-purple-fill path,
+.shape-ico.color--theme-purple-fill path,
+.shape-ico.color--theme-purple-fill path {
+    fill: #fdf4ff;
+}
+
+
 
 .newsletter-section .form-control:focus {
     background-color: #fff;

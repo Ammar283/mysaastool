@@ -1,5 +1,5 @@
 
-import ReviewSlider1 from "../slider/ReviewSlider1"
+import ReviewSlider1 from "../slider/CardifySlider"
 export default function Reviews1_12() {
     return (
         <>
