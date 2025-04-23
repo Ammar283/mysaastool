@@ -1,5 +1,5 @@
 import Layout from "@/components/layout/Layout"
-import Features11_3 from "@/components/sections/Features11_3"
+
 import Features2_13 from "@/components/sections/Features2_13"
 import Hero15 from "@/components/sections/Hero15"
 import Lnk2_15 from "@/components/sections/Lnk2_15"

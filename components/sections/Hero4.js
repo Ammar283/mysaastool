@@ -12,17 +12,17 @@ export default function Hero4() {
                         <div className="col-md-10 col-lg-9 col-xl-10">
                             <div className="hero-4-txt wow fadeInUp">
                                 {/* Title */}
-                                <h2 className="s-56 w-700">Manage all your content in easy way with Martex</h2>
+                                <h2 className="s-56 w-700">TaskUp: Your All-in-One Project Management Solution </h2>
                                 {/* Buttons */}
+                                <p className="p-sm btns-group-txt color--black">
+                                Simplify teamwork, manage projects, and achieve results with TaskUp’s real-time collaboration and powerful task management tools. 
+                                </p>
                                 <div className="btns-group mt-15">
-                                    <Link href="#" className="btn r-04 btn--theme hover--black">Download for MacOS</Link>
-                                    <Link href="#" className="btn r-04 btn--tra-black hover--black">Download for Windows</Link>
+                                    <Link href="#" className="btn btn--violet-500 r-04    hover--black">Start Free Trial</Link>
+                                    <Link href="#" className="btn r-04 btn--tra-black hover--black">Watch Demo</Link>
                                 </div>
                                 {/* Buttons Group Text */}
-                                <p className="p-sm btns-group-txt color--black">
-                                    Requires macOS 10.13+ or Windows 10+ 64bit.
-                                    <span className="txt-data">Current version 2.18.03 <Link href="/download">What's New?</Link></span>
-                                </p>
+                              
                             </div>
                         </div>
                     </div>	{/* END HERO TEXT */}
@@ -31,7 +31,7 @@ export default function Hero4() {
                         <div className="col">
                             <div className="hero-4-img video-preview wow fadeInUp">
                                 {/* Play Icon */}
-                                <VideoPopup style={1}/>
+                              
                                 {/* Preview Image */}
                                 <img className="img-fluid" src="/images/dashboard-04.png" alt="video-preview" />
                             </div>

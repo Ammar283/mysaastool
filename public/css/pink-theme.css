@@ -812,6 +812,8 @@ section,
     background-color: #c73e9b;
 }
 
+
+
 .bg--violet-400 {
     background-color: #be6cbe;
 }
@@ -1210,7 +1212,7 @@ section,
 }
 
 .bg--05 {
-    background-image: url(../images/bg-05.jpg);
+    background-image: url(../images/whatspro.jpg);
 }
 
 /* .bg--06 { background-image: url(../images/bg-06.jpg); } */
@@ -4696,7 +4698,7 @@ span.sm-info {
 #hero-3 {
     position: relative;
     padding-top: 160px;
-    background-image: url(../images/hero-3.jpg);
+    background-image: url(../images/whatspro.jpg);
 }
 
 #hero-3:after {
@@ -9463,6 +9465,9 @@ span.release-date span {
     top: 22px;
     right: 3px;
 }
+.powerful-img img {
+    max-height: 175px !important;
+}
 
 #faqs-2.faqs-section .accordion-item .accordion-thumb:after,
 #faqs-2.faqs-section .accordion-item.is-active .accordion-thumb:after {
@@ -13155,6 +13160,30 @@ body.theme--dark {
 {
     
     background: #477df7 !important;
+    
+}
+.color--theme-blue-fill
+{
+    
+    color: #477df7 !important;
+
+
+}
+.color--theme-violet-fill{
+    color:#c73e9b;
+}
+
+.color--theme-green
+{
+    
+    background: #1fcc44 !important;
+    
+}
+.color--theme-green-fill
+{
+    
+    color: #1fcc44 !important;
+
 
 }
 
@@ -13164,6 +13193,14 @@ body.theme--dark {
     background: white !important;
     color: #b633d5 !important;
 }
+
+.color--theme-green-white
+{
+    
+    background: white !important;
+    color: #1fcc44 !important;
+}
+
 
 
 .color--theme-purple
@@ -13186,6 +13223,8 @@ body.theme--dark {
     background:transparent !important;
     color:white !important;
 }
+
+
 .color--theme-purple-pricing-hover:hover
 {
     
@@ -13202,6 +13241,32 @@ body.theme--dark {
     background:transparent !important;
     color:#477df7 !important;
 }
+.color--theme-green-hover:hover
+{
+    
+    border: 2px solid #1fcc44 !important;
+    background:#1fcc44 !important;
+    color:white !important;
+}
+.color--theme-green-outline:hover
+{
+    
+    border: 2px solid #1fcc44 !important;
+    background:transparent !important;
+    color:white !important;
+}
+
+
+.color--theme-green-pricing-hover:hover
+{
+    
+    border: 2px solid #1fcc44 !important;
+    background:transparent !important;
+    color:#1fcc44 !important;
+}
+
+
+
 .color-white{
     color:white;
 }
@@ -13265,12 +13330,22 @@ body.theme--dark {
     fill: #f3f7ff;
 }
 
+.shape-ico.color--theme-violet-fill path,
+.shape-ico.color--theme-violet-fill path,
+.shape-ico.color--theme-violet-fill path {
+    fill: #ffeaf8;
+}
+
 .shape-ico.color--theme-purple-fill path,
 .shape-ico.color--theme-purple-fill path,
 .shape-ico.color--theme-purple-fill path {
     fill: #fdf4ff;
 }
-
+.shape-ico.color--theme-green-fill path,
+.shape-ico.color--theme-green-fill path,
+.shape-ico.color--theme-green-fill path {
+    fill: #f1fff4;
+}
 
 
 .newsletter-section .form-control:focus {

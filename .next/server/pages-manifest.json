@@ -2,5 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/postly-page": "pages/postly-page.js"
+  "/taskup-page": "pages/taskup-page.js",
+  "/": "pages/index.js"
 }
