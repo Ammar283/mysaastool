@@ -41,7 +41,7 @@ export default function Whatspro_pricing() {
                                             <p className="color--grey">Perfect for small businesses and startups looking to explore WhatsApp marketing.</p>
                                         </div>
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04color--theme-green color-white color--theme-green-pricing-hover">Get srarted </Link>
+                                        <Link href="#" className="pt-btn btn r-04 color--theme-green color-white color--theme-green-pricing-hover">Get srarted </Link>
                                      
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}

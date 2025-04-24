@@ -2,6 +2,10 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/taskup-page": "pages/taskup-page.js",
-  "/": "pages/index.js"
+  "/buildify-page": "pages/buildify-page.js",
+  "/connectly-page": "pages/connectly-page.js",
+  "/demo-15": "pages/demo-15.js",
+  "/demo-17": "pages/demo-17.js",
+  "/": "pages/index.js",
+  "/bookeasy-page": "pages/bookeasy-page.js"
 }

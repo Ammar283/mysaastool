@@ -34,7 +34,7 @@ export default function CardifyFeatures() {
                                         <ul class="simple-list">
                                             <li class="list-item"><p><b>Instant Sharing:</b> Recipients scan to access your card details.</p></li>
                                             <li class="list-item"><p class="mb-0"><b>Editable Codes: </b>Update card info without changing the QR code.</p></li>
-                                            <li class="list-item"><p class="mb-0"><b>Editable Codes: </b>Update card info without changing the QR code.</p></li>
+                                            <li class="list-item"><p class="mb-0"><b>Branded Designs: </b>Customize QR codes with your brand colors.</p></li>
                                         </ul>
                                     </div>
                                 </div>

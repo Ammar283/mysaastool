@@ -11,16 +11,16 @@ export default function Hero11() {
                         <div className="col-md-6">
                             <div className="hero-11-txt wow fadeInRight">
                                 {/* Title */}
-                                <h2 className="s-60 w-700">A design experience like never before</h2>
+                                <h2 className="s-50  w-700 mb-2">Connectly CRM:</h2>
+                                <h2 className="s-35  w-700">Empower Your Business with Seamless Customer Management </h2>
                                 {/* Text */}
-                                <p className="p-lg">Mauris donec turpis suscipit sapien ociis sagittis sapien tempor a volute
-                                    ligula and aliquet tortor
+                                <p className="p-lg">Streamline your customer relationships, projects, and invoicing with Connectly, the ultimate self-hosted CRM designed for businesses of all sizes.
                                 </p>
                                 {/* Button */}
-                                <Link href="#banner-3" className="btn r-04 btn--theme hover--tra-black">Get started for free</Link>
-                                <p className="p-sm btn-txt ico-15">
-                                    <span className="flaticon-check" /> No credit card needed, free 14-day trial
-                                </p>
+                                <div className="btns-group mt-15">
+                                    <Link href="#" className="btn btn--orange-500    r-04  ">Start Free Trial</Link>
+                                    <Link href="#" className="btn r-04 btn--tra-black hover--black">Explore Features</Link>
+                                </div>
                             </div>
                         </div>	{/* END HERO TEXT */}
                         {/* HERO IMAGE */}

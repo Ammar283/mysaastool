@@ -7,7 +7,7 @@ export default function Whatspro_banner() {
             <section id="banner-13" className="pt-100 banner-section">
                 <div className="container">
                     {/* BANNER-13 WRAPPER */}
-                    <div className="banner-13-wrapper bg--05 bg--scroll r-16 block-shadow">
+                    <div className="banner-13-wrapper bg-whatspro bg--scroll r-16 block-shadow">
                         <div className="banner-overlay">
                             <div className="row d-flex align-items-center">
                                 {/* BANNER-5 TEXT */}

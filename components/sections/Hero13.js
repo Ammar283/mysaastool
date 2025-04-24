@@ -13,16 +13,16 @@ export default function Hero13() {
                                 {/* Section ID */}
                                 <span className="section-id">Strategies That Work</span>
                                 {/* Title */}
-                                <h2 className="s-54 w-700">Right SEO strategies for your success</h2>
+                                <h2 className="s-50 w-700">Simplify Your Service Bookings with BookEasy
+                                </h2>
                                 {/* Text */}
-                                <p className="p-lg">Mauris ligula ociis ipsum congue neque undo laoreet sagittis sapien diam
-                                    tempor
+                                <p className="p-lg">Effortlessly manage appointments, staff, and payments for multiple businesses with BookEasy’s all-in-one SaaS platform.
                                 </p>
                                 {/* Button */}
-                                <Link href="#banner-13" className="btn r-04 btn--theme hover--tra-black">Get started for free</Link>
-                                <p className="p-sm btn-txt ico-15">
-                                    <span className="flaticon-check" /> No credit card needed, free 14-day trial
-                                </p>
+                                <div className="btns-group mt-15">
+                                    <Link href="#" className="btn btn--violet-400  r-04 ">Get Started Free</Link>
+                                    <Link href="#" className="btn r-04  hover--violet-400">Request a demo</Link>
+                                </div>
                             </div>
                         </div>	{/* END HERO TEXT */}
                         {/* HERO IMAGE */}
