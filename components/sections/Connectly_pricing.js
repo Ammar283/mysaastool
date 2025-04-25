@@ -133,7 +133,7 @@ export default function Connectly_pricing() {
                                         <li><p><span className="flaticon-check" /> 24/7 Phone & Email Support</p></li>
                                         <li><p><span className="flaticon-check" /> 20 GB Storage</p></li>
                                         <li><p><span className="flaticon-check" /> Advanced Analytics</p></li>
-                                        <li><p><span className="flaticon-check" /> API Accessc</p></li>
+                                        <li><p><span className="flaticon-check" /> API Access</p></li>
                                     </ul>
                                 </div>
                             </div>	{/* END BASIC PLAN */}

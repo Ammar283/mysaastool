@@ -1932,12 +1932,18 @@ p.btns-group-txt span.txt-data a:hover {
 
 .btn--blue-400,
 .hover--blue-400:hover,
-.white-scroll .scroll .hover--blue-400:hover,
-.black-scroll .scroll .hover--blue-400:hover {
+.white-scroll .scroll,
+.black-scroll .scroll:hover {
     color: #fff !important;
     border-color: #1680fb !important;
     background-color: #1680fb !important;
 }
+.hover--blue-400:hover{
+    border:2px solid #1680fb !important;
+    background-color:transparent !important;
+    color:#1680fb !important;
+}
+
 
 .btn--blue-300,
 .hover--blue-300:hover,
@@ -1981,12 +1987,23 @@ p.btns-group-txt span.txt-data a:hover {
 
 .btn--green-400,
 .hover--green-400:hover,
-.white-scroll .scroll .hover--green-400:hover,
-.black-scroll .scroll .hover--green-400:hover {
+.white-scroll .scroll ,
+.black-scroll .scroll:hover {
     color: #fff !important;
     border-color: #0fbc49 !important;
     background-color: #0fbc49 !important;
 }
+.hover--green-400:hover{
+    border:2px solid #0fbc49;
+    background:transparent !important;
+    color:#0fbc49 !important
+}
+.outline--green-400{
+    border:2px solid #0fbc49;
+    background:transparent !important;
+    color:#0fbc49 !important
+}
+
 
 .btn--green-300,
 .hover--green-300:hover,
@@ -2897,10 +2914,12 @@ p.video-txt-sm {
 .color--orange-500{
 color:#eb764c;
 }
-.shape-ico.color--orange-500 path,
+.shape-ico.color--orange-500 path{
+    fill: #fff4f0;
+}
 .shape-ico.color--blue-400 path,
 .shape-ico.color--blue-500 path {
-    fill: #fff4f0;
+  fill:#e0f0ff;
 }
 
 .shape-ico.color--green-300 path,
