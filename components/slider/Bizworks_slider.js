@@ -41,7 +41,7 @@ const swiperOptions = {
 }
 
 
-export default function PostlySlider() {
+export default function BizworkSlider() {
     return (
         <>
 

@@ -18,7 +18,7 @@ export default function Hero21() {
                                 {/* Buttons */}
                                 <div className="btns-group">
                                     <Link href="#banner-13" className="btn r-04 btn--green-400 color-white  hover--green-400 ">Get started Now</Link>
-                                    <Link href="#features-5" className="btn r-04 outline--green-400 hover--black">Schedule a Demo</Link>
+                                    <Link href="#features-5" className="btn r-04 outline--green-400 hover--black">Request a Demo</Link>
                                 </div>
                               
                                

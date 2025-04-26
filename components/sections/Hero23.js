@@ -1,5 +1,5 @@
 
-
+import Link from "next/link"
 import VideoPopup from "../elements/VidepPopup"
 export default function Hero23() {
     return (
@@ -16,13 +16,15 @@ export default function Hero23() {
                                 </div>
                                 {/* Title */}
                                 <h2 className="s-58 w-700">
-                                    Generate <span className="color--theme">more leads</span> with social media marketing
+                                Simplify Your Business with Invoicly
                                 </h2>
                                 {/* Text */}
-                                <p className="p-xl">Mauris donec ociis diam magnis sapien sagittis sapien tempor volute
-                                    gravida <span className="color--black">aliquet tortor undo aliquet an egestas</span>
-                                    in magna egestas sapien quaerat
+                                <p className="p-xl">Streamline invoicing, expense tracking, and business management with our all-in-one SaaS accounting solution.
                                 </p>
+                                <div className="btns-group">
+                                    <Link href="#banner-13" className="btn r-04 btn--red-400 color-white  hover--black ">Get started Now</Link>
+                                    <Link href="#features-5" className="btn r-04 btn--white hover--black">Request a Demo</Link>
+                                </div>
                             </div>
                         </div>
                     </div>	{/*END HERO TEXT */}
@@ -31,7 +33,7 @@ export default function Hero23() {
                         <div className="col">
                             <div className="hero-23-img video-preview wow fadeInUp">
                                 {/* Play Icon */}
-                                <VideoPopup style={1}/>
+                             
                                 {/* Preview Image */}
                                 <img className="img-fluid" src="/images/dashboard-03.png" alt="video-preview" />
                             </div>

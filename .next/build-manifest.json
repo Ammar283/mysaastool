@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/sendflow-page": [
+    "/invoicly-page": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/sendflow-page.js"
+      "static/chunks/pages/invoicly-page.js"
     ]
   },
   "ampFirstPages": []

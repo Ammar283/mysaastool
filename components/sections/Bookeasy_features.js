@@ -35,7 +35,7 @@ export default function Bookeasy_Features() {
                                         <ul class="simple-list">
                                             <li class="list-item"><p><b>Unique URLs:</b> Each business gets a dedicated URL for easy sharing.</p></li>
                                             <li class="list-item"><p class="mb-0"><b>Gallery Support: </b> Display photos to attract more customers.</p></li>
-                                            <li class="list-item"><p class="mb-0"><b>SEO Options:</b> Optimize pages for better search engine visibility..</p></li>
+                                            <li class="list-item"><p class="mb-0"><b>SEO Options:</b> Optimize pages for better search engine visibility.</p></li>
                                         </ul>
                                     </div>
                                 </div>

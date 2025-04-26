@@ -12,7 +12,7 @@ export default function Bizworks_review() {
                                 {/* Title */}
                                 <h2 className="s-50 w-700">Hear from Our Happy Customers</h2>
                                 {/* Text */}
-                                <p className="s-21 color--grey">BizWorks has transformed the way businesses operate. See what our users have to say..</p>
+                                <p className="s-21 color--grey">BizWorks has transformed the way businesses operate. See what our users have to say.</p>
                             </div>
                         </div>
                     </div>

@@ -15,7 +15,7 @@ export default function Bookeasy_pricing() {
                             <div className="section-title mb-70">
                                 {/* Title */}
                                 <h2 className="s-45 w-700 mb-3">Flexible Pricing for Every Business </h2>
-                                <p className="color--grey">CChoose a plan that fits your needs and scale as your business grows.</p>
+                                <p className="color--grey">Choose a plan that fits your needs and scale as your business grows.</p>
                                 {/* TOGGLE BUTTON */}
                            
                             </div>
@@ -134,7 +134,7 @@ export default function Bookeasy_pricing() {
                                         <li><p><span className="flaticon-check" /> Custom Branding</p></li>
                                         <li><p><span className="flaticon-check" /> Dedicated Support</p></li>
                                         <li><p><span className="flaticon-check" /> Full Analytics Suite</p></li>
-                                        <li><p><span className="flaticon-check" /> API Accessc</p></li>
+                                        <li><p><span className="flaticon-check" /> API Access</p></li>
                                     </ul>
                                 </div>
                             </div>	{/* END BASIC PLAN */}

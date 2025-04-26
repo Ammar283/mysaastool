@@ -1,5 +1,5 @@
 
-
+import Link from "next/link"
 export default function Hero26() {
     return (
         <>
@@ -10,29 +10,15 @@ export default function Hero26() {
                         <div className="col-md-6">
                             <div className="hero-26-txt color--white wow fadeInRight">
                                 {/* Title */}
-                                <h2 className="s-60 w-700">Add creativity to your project</h2>
+                                <h2 className="s-60 w-700">Transform Your Restaurant with Restaurantly</h2>
                                 {/* Text */}
-                                <p className="p-lg">Mauris donec turpis suscipit diam sapien ociis sagittis sapien tempor
-                                    a volute ligula aliquet tortor egestas
+                                <p className="p-lg">Elevate your dining operations with Restaurantly, the all-in-one SaaS solution designed to streamline processes, boost efficiency, and personalize customer experiences.
                                 </p>
-                                {/* HERO QUICK FORM */}
-                                <form name="quickform" className="quick-form form-shadow form-half mt-35">
-                                    {/* Form Inputs */}
-                                    <div className="input-group">
-                                        <input type="email" name="email" className="form-control email r-06" placeholder="Your email address" autoComplete="off" required />
-                                        <span className="input-group-btn form-btn">
-                                            <button type="submit" className="btn r-04 btn--theme hover--violet-500 submit">Get Started</button>
-                                        </span>
-                                    </div>
-                                    {/* Form Message */}
-                                    <div className="quick-form-msg"><span className="loading" /></div>
-                                </form>
-                                {/* Advantages List */}
-                                <ul className="advantages ico-15 clearfix">
-                                    <li><p className="p-sm">14 days free trial</p></li>
-                                    <li className="advantages-links-divider"><p><span className="flaticon-minus" /></p></li>
-                                    <li><p className="p-sm">No credit card needed</p></li>
-                                </ul>
+                                <div className="btns-group">
+                                    <Link href="#banner-13" className="btn r-04 btn--red-400 color-white  hover--black ">Start Free Trial</Link>
+                                    <Link href="#features-5" className="btn r-04 btn--white hover--black">View Demo</Link>
+                                </div>
+           
                             </div>
                         </div>	{/* END HERO TEXT */}
                         {/* HERO IMAGE */}
