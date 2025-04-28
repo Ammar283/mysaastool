@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/orderly-page": [
+    "/recruitly-page": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/orderly-page.js"
+      "static/chunks/pages/recruitly-page.js"
     ]
   },
   "ampFirstPages": []

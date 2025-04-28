@@ -11,15 +11,17 @@ export default function Hero25() {
                         <div className="col-md-6">
                             <div className="hero-25-txt wow fadeInRight">
                                 {/* Section ID */}
-                                <span className="section-id">Built-In Automation</span>
+                              
                                 {/* Title */}
-                                <h2 className="s-52 w-700">Connect your brand with your customers</h2>
+                                <h2 className="s-52 w-700">Simplify Hiring with Recruitly</h2>
                                 {/* Text */}
-                                <p className="p-lg">Mauris donec turpis suscipit sapien ociis sagittis sapien tempor a volute
-                                    ligula and aliquet tortor
+                                <p className="p-lg">Streamline your recruitment process with our powerful SaaS solution designed to manage job applications and find the perfect candidates effortlessly.
                                 </p>
                                 {/* Button */}
-                                <Link href="#banner-3" className="btn r-04 btn--theme hover--theme">Get started for free</Link>
+                                <div className="btns-group">
+                                    <Link href="#banner-13" className="btn r-04 btn--red-400 color-white  hover--black ">Try Free Demo</Link>
+                                    <Link href="#features-5" className="btn r-04 btn--white hover--black">View Pricing</Link>
+                                </div>
                             </div>
                         </div>	{/* END HERO TEXT */}
                         {/* HERO IMAGE */}
