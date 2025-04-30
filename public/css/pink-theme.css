@@ -3824,7 +3824,7 @@ color:#eb764c;
 .desktoplogo img {
     width: auto;
     max-width: inherit;
-    max-height: 38px;
+    max-height: 114px;
 }
 
 .blog-header .desktoplogo img {
@@ -5937,7 +5937,7 @@ span.sm-info {
 }
 
 .fbox-img.h-175 img {
-    max-height: 100px;
+    width: 180px;
 }
 
 .fbox-img.h-180 img {
@@ -13241,13 +13241,13 @@ img.img-fluid.connectly-growth {
 .color--theme-blue
 {
     
-    background: #477df7 !important;
+    background: #3a86fe !important;
     
 }
 .color--theme-blue-fill
 {
     
-    color: #477df7 !important;
+    color: #3a86fe !important;
 
 
 }
@@ -13288,20 +13288,20 @@ img.img-fluid.connectly-growth {
 .color--theme-purple
 {
     
-    background: #b633d5 !important;
+    background: #8338eb !important;
 
 }
 .color--theme-purple-fill
 {
     
-    color: #b633d5 !important;
+    color: #8338eb !important;
 
 
 }
 .color--theme-purple-hover:hover
 {
     
-    border: 2px solid #b633d5 !important;
+    border: 2px solid #8338eb !important;
     background:transparent !important;
     color:white !important;
 }
@@ -13310,18 +13310,18 @@ img.img-fluid.connectly-growth {
 .color--theme-purple-pricing-hover:hover
 {
     
-    border: 2px solid #b633d5 !important;
+    border: 2px solid #8338eb !important;
     background:transparent !important;
-    color:#b633d5 !important;
+    color:#8338eb !important;
 }
 
 
 .color--theme-blue-hover:hover
 {
     
-    border: 2px solid #477df7 !important;
+    border: 2px solid #3a86fe !important;
     background:transparent !important;
-    color:#477df7 !important;
+    color:#3a86fe !important;
 }
 .color--theme-green-hover:hover
 {

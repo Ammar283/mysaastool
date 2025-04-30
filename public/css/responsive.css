@@ -1457,7 +1457,7 @@
 
   .wsmobileheader .smllogo { display: block; margin-top: 22px; padding-left: 22px; }
   .blog-header .wsmobileheader .smllogo { margin-top: 28px; }
-  .smllogo img { width: auto; max-width: inherit; max-height: 34px; }
+  .smllogo img { width: auto; max-width: inherit; max-height: 60px; }
   .blog-header .smllogo img { max-height: 28px; }
 
   .wsmobileheader { height: 80px; box-shadow: 0 0 2px rgba(50, 50, 50, 0.4); } 
