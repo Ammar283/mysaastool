@@ -1457,7 +1457,7 @@
 
   .wsmobileheader .smllogo { display: block; margin-top: 22px; padding-left: 22px; }
   .blog-header .wsmobileheader .smllogo { margin-top: 28px; }
-  .smllogo img { width: auto; max-width: inherit; max-height: 60px; }
+  .smllogo img { width: auto; max-width: inherit; max-height: 50px; }
   .blog-header .smllogo img { max-height: 28px; }
 
   .wsmobileheader { height: 80px; box-shadow: 0 0 2px rgba(50, 50, 50, 0.4); } 
@@ -2855,7 +2855,7 @@
 
   .wsmobileheader .smllogo { display: block; margin-top: 22px; padding-left: 22px; }
   .blog-header .wsmobileheader .smllogo { margin-top: 27px; }
-  .smllogo img { width: auto; max-width: inherit; max-height: 36px; }
+  .smllogo img { width: auto; max-width: inherit; max-height: 50px; }
   .blog-header .smllogo img { max-height: 30px; }
 
   .wsmobileheader { height: 80px; box-shadow: 0 0 2px rgba(50, 50, 50, 0.4); } 
@@ -3714,7 +3714,7 @@
 
   /* Header Logo */
   .wsmobileheader .smllogo { display: block; margin-top: 23px; padding-left: 18px; }
-  .smllogo img { width: auto; max-width: inherit; max-height: 34px; }
+  .smllogo img { width: auto; max-width: inherit; max-height: 50px; }
 
   .wsmenu > .wsmenu-list { width: 345px; margin-right: -345px; }
   .wsactive .wsmobileheader { margin-right: 345px; }
@@ -4657,7 +4657,7 @@
   /* Header Logo */
   .wsmobileheader .smllogo { display: block; margin-top: 23px; padding-left: 16px; }
   .blog-header .wsmobileheader .smllogo { margin-top: 29px; }
-  .smllogo img { width: auto; max-width: inherit; max-height: 34px; }
+  .smllogo img { width: auto; max-width: inherit; max-height: 50px; }
   .blog-header .smllogo img { max-height: 28px; }
 
   .wsmenu > .wsmenu-list { width: 325px; margin-right: -325px; }
@@ -5826,7 +5826,7 @@
   /* Header Logo */
   .wsmobileheader .smllogo { display: block; margin-top: 23px; padding-left: 16px; }
   .blog-header .wsmobileheader .smllogo { margin-top: 29px; }
-  .smllogo img { width: auto; max-width: inherit; max-height: 34px; }
+  .smllogo img { width: auto; max-width: inherit; max-height: 50px; }
   .blog-header .smllogo img { max-height: 28px; }
 
   .wsmenu > .wsmenu-list { width: 325px; margin-right: -325px; }
@@ -7015,7 +7015,7 @@
   /* Header Logo */
   .wsmobileheader .smllogo { display: block; margin-top: 23px; padding-left: 16px; }
   .blog-header .wsmobileheader .smllogo { margin-top: 29px; }
-  .smllogo img { width: auto; max-width: inherit; max-height: 34px; }
+  .smllogo img { width: auto; max-width: inherit; max-height: 50px; }
   .blog-header .smllogo img { max-height: 28px; }
 
   .wsmenu > .wsmenu-list { width: 290px; margin-right: -290px; }

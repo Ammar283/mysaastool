@@ -3824,7 +3824,7 @@ color:#eb764c;
 .desktoplogo img {
     width: auto;
     max-width: inherit;
-    max-height: 114px;
+    max-height: 95px;
 }
 
 .blog-header .desktoplogo img {
@@ -10616,11 +10616,11 @@ img.footer-logo,
 img.footer-logo-dark {
     width: auto;
     max-width: inherit;
-    max-height: 40px;
+    max-height: 80px;
 }
 
 #footer-10 img.footer-logo {
-    max-height: 46px;
+    max-height: 80px;
 }
 
 #footer-1 .footer-logo,
@@ -13258,13 +13258,13 @@ img.img-fluid.connectly-growth {
 .color--theme-green
 {
     
-    background: #1fcc44 !important;
+    background: #00b7a8 !important;
     
 }
 .color--theme-green-fill
 {
     
-    color: #1fcc44 !important;
+    color: #00b7a8 !important;
 
 
 }
@@ -13280,7 +13280,7 @@ img.img-fluid.connectly-growth {
 {
     
     background: white !important;
-    color: #1fcc44 !important;
+    color: #00b7a8 !important;
 }
 
 
@@ -13326,14 +13326,14 @@ img.img-fluid.connectly-growth {
 .color--theme-green-hover:hover
 {
     
-    border: 2px solid #1fcc44 !important;
-    background:#1fcc44 !important;
+    border: 2px solid #00b7a8 !important;
+    background:#00b7a8 !important;
     color:white !important;
 }
 .color--theme-green-outline:hover
 {
     
-    border: 2px solid #1fcc44 !important;
+    border: 2px solid #00b7a8 !important;
     background:transparent !important;
     color:white !important;
 }
@@ -13342,11 +13342,15 @@ img.img-fluid.connectly-growth {
 .color--theme-green-pricing-hover:hover
 {
     
-    border: 2px solid #1fcc44 !important;
+    border: 2px solid #00b7a8 !important;
     background:transparent !important;
-    color:#1fcc44 !important;
+    color:#00b7a8 !important;
 }
-
+.integrations-section .s-17 {
+  
+    padding-bottom: 20px;
+    line-height: 20px !important;
+}
 
 
 .color-white{

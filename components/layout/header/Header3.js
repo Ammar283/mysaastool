@@ -20,14 +20,13 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, header
                                 <Link href="#hero-1" className="logo-black">
                                
                                     <img className="light-theme-img" src="/images/Sasstool-logo.png" alt="logo" />
-                                    <img className="dark-theme-img" src="/images/logo-pink-white.png" alt="logo" /> 
+                                    <img className="dark-theme-img" src="/images/Sasstool-logo-white.png" alt="logo" /> 
                                 </Link>
                             </div>
                             {/* HEADER WHITE LOGO */}
                             <div className="desktoplogo">
-                            <Link href="#hero-1" className="logo-white">
-                            <h4 className="p-3 color-white">mySaaS.Tools</h4>  </Link>
-                              {/*   <Link href="#hero-1" className="logo-white"><img src="/images/logo-white.png" alt="logo" /></Link> */}
+                           
+                                <Link href="#hero-1" className="logo-white"><img src="/images/Sasstool-logo-white.png" alt="logo" /></Link> 
                             </div>
                             {/* MAIN MENU */}
                             <nav className="wsmenu clearfix" style={{ height: `${isMobileMenu ? "100vh" : ""}` }}>

@@ -10,9 +10,9 @@ export default function Footer4() {
                         {/* FOOTER LOGO */}
                         <div className="col-xl-4">
                             <div className="footer-info">
-                                <h4>mySaaS.tools</h4>
-                                 {/* FOOTER LOGO  <img className="footer-logo" src="/images/logo-pink.png" alt="footer-logo" /> */}
-                                 {/* <img className="footer-logo-dark" src="/images/logo-pink-white.png" alt="footer-logo" />*/}
+                             
+                                    <img className="footer-logo" src="/images/Sasstool-logo.png" alt="footer-logo" /> 
+                                  <img className="footer-logo-dark" src="/images/Sasstool-logo-white.png" alt="footer-logo" />
                             </div>
                         </div>
                         {/* FOOTER LINKS */}
