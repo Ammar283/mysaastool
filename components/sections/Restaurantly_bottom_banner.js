@@ -20,7 +20,7 @@ export default function Restaurantly_bottom_banner() {
                                         </p>
                                         {/* Button */}
                                         <div className="btns-group">
-                                    <Link href="#banner-13" className="btn r-04 btn--red-400 color-white  hover--black ">Get started Now</Link>
+                                    <Link href="#banner-13" className="btn r-04 btn--yellow-500 color-white  hover--black ">Get started Now</Link>
                                     <Link href="#features-5" className="btn r-04 btn--white hover--black">Schedule a Demo</Link>
                                 </div>
                                     </div>

@@ -24,7 +24,7 @@ export default function Sendflow_why_choose() {
                                 <div className="fbox-6 fb-1 wow fadeInUp">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-55">
-                                        <div className="shape-ico color--green-300  ">
+                                        <div className="shape-ico color--theme-green-fill  ">
                                             {/* Vector Icon */}
                                             <span className="flaticon-rocket-launch" />
                                             {/* Shape */}
@@ -45,7 +45,7 @@ export default function Sendflow_why_choose() {
                                 <div className="fbox-6 fb-2 wow fadeInUp">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-55">
-                                        <div className="shape-ico color--green-300">
+                                        <div className="shape-ico color--theme-green-fill">
                                             {/* Vector Icon */}
                                             <span className="flaticon-data-copy" />
                                             {/* Shape */}
@@ -66,7 +66,7 @@ export default function Sendflow_why_choose() {
                                 <div className="fbox-6 fb-3 wow fadeInUp">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-55">
-                                        <div className="shape-ico color--green-300">
+                                        <div className="shape-ico color--theme-green-fill">
                                             {/* Vector Icon */}
                                             <span className="flaticon-networking" />
                                             {/* Shape */}
@@ -87,7 +87,7 @@ export default function Sendflow_why_choose() {
                                 <div className="fbox-6 fb-4 wow fadeInUp">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-55">
-                                        <div className="shape-ico color--green-300">
+                                        <div className="shape-ico color--theme-green-fill">
                                             {/* Vector Icon */}
                                             <span className="flaticon-download" />
                                             {/* Shape */}
@@ -108,7 +108,7 @@ export default function Sendflow_why_choose() {
                                 <div className="fbox-6 fb-4 wow fadeInUp">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-55">
-                                        <div className="shape-ico color--green-300">
+                                        <div className="shape-ico color--theme-green-fill">
                                             {/* Vector Icon */}
                                             <span className="flaticon-download" />
                                             {/* Shape */}
@@ -129,7 +129,7 @@ export default function Sendflow_why_choose() {
                                 <div className="fbox-6 fb-4 wow fadeInUp">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-55">
-                                        <div className="shape-ico color--green-300">
+                                        <div className="shape-ico color--theme-green-fill">
                                             {/* Vector Icon */}
                                             <span className="flaticon-download" />
                                             {/* Shape */}

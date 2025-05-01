@@ -17,7 +17,7 @@ export default function Hero21() {
                                 <p >SendFlow is a self-hosted, open-source email marketing platform designed to deliver high-volume campaigns with ease. Take control of your email strategy, automate workflows, and track performance—all from one powerful solution.</p>
                                 {/* Buttons */}
                                 <div className="btns-group">
-                                    <Link href="#banner-13" className="btn r-04 btn--green-400 color-white  hover--green-400 ">Get started Now</Link>
+                                    <Link href="#banner-13" className="btn r-04 color--theme-green color-white  hover--green-400 ">Get started Now</Link>
                                     <Link href="#features-5" className="btn r-04 outline--green-400 hover--black">Request a Demo</Link>
                                 </div>
                               

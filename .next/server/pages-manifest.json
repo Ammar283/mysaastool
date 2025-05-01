@@ -2,5 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/whatspro-page": "pages/whatspro-page.js"
+  "/restaurantly-page": "pages/restaurantly-page.js"
 }

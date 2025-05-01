@@ -16,7 +16,7 @@ export default function Hero9() {
                                 <p className="s-20"> Simplify event planning, ticketing, and management with Evently’s powerful SaaS platform. Create memorable events effortlessly.
                                 </p>
                                 <div className="btns-group">
-                                    <Link href="#banner-13" className="btn r-04 btn--red-400 color-white  hover--black ">Get started Now</Link>
+                                    <Link href="#banner-13" className="btn r-04 btn--violet-500 color-white  hover--black ">Get started Now</Link>
                                     <Link href="#features-5" className="btn r-04 btn--white hover--black">Schedule a Demo</Link>
                                 </div>
                             

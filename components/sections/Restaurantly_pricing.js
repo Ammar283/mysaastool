@@ -41,7 +41,7 @@ export default function Restaurantly_pricing() {
                                             <p className="color--grey">Perfect for small cafes and bistros looking to streamline operations..</p>
                                         </div>
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04 btn--red-500 color-white color--theme-red-hover">Get srarted </Link>
+                                        <Link href="#" className="pt-btn btn r-04 btn--yellow-500 color-white color--theme-red-hover">Get srarted </Link>
                                      
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}
@@ -73,7 +73,7 @@ export default function Restaurantly_pricing() {
                                             <p className="color--grey">Ideal for growing restaurants with multiple locations</p>
                                         </div>
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04 btn--red-500 color-white color--theme-red-hover">Get srarted</Link>
+                                        <Link href="#" className="pt-btn btn r-04 btn--yellow-500 color-white color--theme-red-hover">Get srarted</Link>
                                      
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}
@@ -120,7 +120,7 @@ export default function Restaurantly_pricing() {
                                             <p className="color--grey">Tailored for large chains and fine dining with premium features.</p>
                                         </div>	{/* End Price */}
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04 btn--red-500 color-white color--theme-red-hover">Get Started</Link>
+                                        <Link href="#" className="pt-btn btn r-04 btn--yellow-500 color-white color--theme-red-hover">Get Started</Link>
                                       
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}

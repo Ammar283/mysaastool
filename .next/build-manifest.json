@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/whatspro-page": [
+    "/restaurantly-page": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/whatspro-page.js"
+      "static/chunks/pages/restaurantly-page.js"
     ]
   },
   "ampFirstPages": []

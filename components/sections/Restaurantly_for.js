@@ -24,7 +24,7 @@ export default function Restaurantly_for() {
                                 <div className="fbox-7 fb-1 r-12 wow fadeInUp">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-50">
-                                        <div className="shape-ico color--theme">
+                                        <div className="shape-ico color--yellow-500">
                                             {/* Vector Icon */}
                                             <span className="flaticon-click-1" />
                                             {/* Shape */}
@@ -45,7 +45,7 @@ export default function Restaurantly_for() {
                                 <div className="fbox-7 fb-2 r-12 wow fadeInUp">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-50">
-                                        <div className="shape-ico color--theme">
+                                        <div className="shape-ico color--yellow-500">
                                             {/* Vector Icon */}
                                             <span className="flaticon-prioritize" />
                                             {/* Shape */}
@@ -66,7 +66,7 @@ export default function Restaurantly_for() {
                                 <div className="fbox-7 fb-3 r-12 wow fadeInUp">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-50">
-                                        <div className="shape-ico color--theme">
+                                        <div className="shape-ico color--yellow-500">
                                             {/* Vector Icon */}
                                             <span className="flaticon-diamond" />
                                             {/* Shape */}
@@ -87,7 +87,7 @@ export default function Restaurantly_for() {
                                 <div className="fbox-7 fb-4 r-12 wow fadeInUp">
                                     {/* Icon */}
                                     <div className="fbox-ico ico-50">
-                                        <div className="shape-ico color--theme">
+                                        <div className="shape-ico color--yellow-500">
                                             {/* Vector Icon */}
                                             <span className="flaticon-analytics" />
                                             {/* Shape */}

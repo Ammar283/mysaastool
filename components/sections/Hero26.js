@@ -15,7 +15,7 @@ export default function Hero26() {
                                 <p className="p-lg">Elevate your dining operations with Restaurantly, the all-in-one SaaS solution designed to streamline processes, boost efficiency, and personalize customer experiences.
                                 </p>
                                 <div className="btns-group">
-                                    <Link href="#banner-13" className="btn r-04 btn--red-400 color-white  hover--black ">Start Free Trial</Link>
+                                    <Link href="#banner-13" className="btn r-04 btn--yellow-500 color-white  hover--black ">Start Free Trial</Link>
                                     <Link href="#features-5" className="btn r-04 btn--white hover--black">View Demo</Link>
                                 </div>
            
