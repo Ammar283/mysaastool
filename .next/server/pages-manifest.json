@@ -2,5 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/restaurantly-page": "pages/restaurantly-page.js"
+  "/whatspro-page": "pages/whatspro-page.js",
+  "/taskup-page": "pages/taskup-page.js",
+  "/404": "pages/404.js",
+  "/home": "pages/home.js"
 }

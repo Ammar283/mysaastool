@@ -3611,7 +3611,8 @@
   .shape--04:after { height: 90%; top: 0; }
   .shape--07:after { height: 80%; top: 15%; }
 
-  .font--jakarta h1, .font--jakarta h2 { line-height: 1.35; }
+  .font--jakarta h1, .font--jakarta h2 { line-height: 1.35; text-align: center; }
+  
   .font--jakarta h3, .font--jakarta h4, .font--jakarta h5, .font--jakarta h6 { line-height: 1.4; }
 
   /* Font Size */
@@ -4536,7 +4537,7 @@
 
   ol.digit-list p { margin-bottom: 5px; }
 
-  .font--jakarta h1, .font--jakarta h2 { line-height: 1.35; }
+  .font--jakarta h1, .font--jakarta h2 { line-height: 1.35;  text-align: center;}
   .font--jakarta h3, .font--jakarta h4, .font--jakarta h5, .font--jakarta h6 { line-height: 1.4; }
 
   /* Font Size */
@@ -5704,7 +5705,7 @@
 
   ol.digit-list p { margin-bottom: 5px; }
 
-  .font--jakarta h1, .font--jakarta h2 { line-height: 1.35; }
+  .font--jakarta h1, .font--jakarta h2 { line-height: 1.35;  text-align: center;}
   .font--jakarta h3, .font--jakarta h4, .font--jakarta h5, .font--jakarta h6 { line-height: 1.4; }
 
   /* Font Size */
@@ -6878,7 +6879,7 @@
 
   ol.digit-list p { margin-bottom: 5px; }
 
-  .font--jakarta h1, .font--jakarta h2 { line-height: 1.35; }
+  .font--jakarta h1, .font--jakarta h2 { line-height: 1.35;   text-align: center;}
   .font--jakarta h3, .font--jakarta h4, .font--jakarta h5, .font--jakarta h6 { line-height: 1.4; }
 
   /* Font Size */
@@ -8116,7 +8117,7 @@
 
   ol.digit-list p { margin-bottom: 5px; }
 
-  .font--jakarta h1, .font--jakarta h2 { line-height: 1.35; }
+  .font--jakarta h1, .font--jakarta h2 { line-height: 1.35;  text-align: center; }
   .font--jakarta h3, .font--jakarta h4, .font--jakarta h5, .font--jakarta h6 { line-height: 1.4; }
 
   /* Font Size */
