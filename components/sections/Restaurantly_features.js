@@ -1,5 +1,6 @@
 
 
+
 export default function Restaurantly_features() {
     return (
         <>
@@ -14,7 +15,9 @@ export default function Restaurantly_features() {
                         {/* IMAGE BLOCK */}
                         <div className="col-md-6">
                             <div className="img-block left-column wow fadeInRight">
-                                <img className="img-fluid" src="/images/img-10.png" alt="content-image" />
+                                <video width="700" height="500" autoPlay muted loop playsInline>
+                                <source src="/images/Menu-Management.webm" type="video/webm" />
+                                </video>
                             </div>
                         </div>
                         {/* TEXT BLOCK */}
@@ -57,7 +60,9 @@ export default function Restaurantly_features() {
                         {/* IMAGE BLOCK */}
                         <div className="col-md-6">
                             <div className="img-block left-column wow fadeInRight">
-                                <img className="img-fluid" src="/images/img-10.png" alt="content-image" />
+                                <video width="700" height="500" autoPlay muted loop playsInline>
+                                <source src="/images/Order-Management.webm" type="video/webm" />
+                                </video>
                             </div>
                         </div>
                         {/* TEXT BLOCK */}
@@ -100,7 +105,9 @@ export default function Restaurantly_features() {
                         {/* IMAGE BLOCK */}
                         <div className="col-md-6">
                             <div className="img-block left-column wow fadeInRight">
-                                <img className="img-fluid" src="/images/img-10.png" alt="content-image" />
+                            <video width="700" height="500" autoPlay muted loop playsInline>
+                                <source src="/images/Table-Management.webm" type="video/webm" />
+                                </video>
                             </div>
                         </div>
                         {/* TEXT BLOCK */}
@@ -143,7 +150,9 @@ export default function Restaurantly_features() {
                         {/* IMAGE BLOCK */}
                         <div className="col-md-6">
                             <div className="img-block left-column wow fadeInRight">
-                                <img className="img-fluid" src="/images/img-10.png" alt="content-image" />
+                            <video width="700" height="500" autoPlay muted loop playsInline>
+                                <source src="/images/Customer-personalization.webm" type="video/webm" />
+                                </video>
                             </div>
                         </div>
                         {/* TEXT BLOCK */}

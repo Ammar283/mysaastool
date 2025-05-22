@@ -3,7 +3,7 @@
 export default function Invoicly_for() {
     return (
         <>
-            <section id="features-2" className=" mt-100 py-100 bg--blue-100  features-section division">
+            <section id="features-2" className=" mt-100 py-100 bg--green-100  features-section division">
                 <div className="container">
                     {/* SECTION TITLE */}
                     <div className="row justify-content-center">

@@ -21,11 +21,11 @@ export default function Invoicly_whychoose() {
                         <div className="row row-cols-1 row-cols-md-3 rows-3">
                             {/* FEATURE BOX #1 */}
                             <div className="col">
-                                <div className="text-center fb-1 wow fadeInUp p-4 bg--blue-100 r-10">
+                                <div className="text-center fb-1 wow fadeInUp p-4 bg--green-100 r-10">
                                     {/* Icon */}
                                     <div className="fbox-ico-wrap">
                                         <div className="fbox-ico ico-50">
-                                            <div className="shape-ico color--blue-400">
+                                            <div className="shape-ico color--theme-green-fill">
                                                 {/* Vector Icon */}
                                                 <span className="flaticon-graphics" />
                                                 {/* Shape */}
@@ -44,11 +44,11 @@ export default function Invoicly_whychoose() {
                             </div>	{/* END FEATURE BOX #1 */}
                             {/* FEATURE BOX #2 */}
                             <div className="col">
-                                <div className="text-center fb-2 wow fadeInUp p-4 bg--blue-100 r-10">
+                                <div className="text-center fb-2 wow fadeInUp p-4 bg--green-100 r-10">
                                     {/* Icon */}
                                     <div className="fbox-ico-wrap">
                                         <div className="fbox-ico ico-50">
-                                            <div className="shape-ico color--blue-400">
+                                            <div className="shape-ico color--theme-green-fill">
                                                 {/* Vector Icon */}
                                                 <span className="flaticon-idea" />
                                                 {/* Shape */}
@@ -67,11 +67,11 @@ export default function Invoicly_whychoose() {
                             </div>	{/* END FEATURE BOX #2 */}
                             {/* FEATURE BOX #3 */}
                             <div className="col">
-                                <div className="text-center fb-3 wow fadeInUp  p-4 bg--blue-100 r-10">
+                                <div className="text-center fb-3 wow fadeInUp  p-4 bg--green-100 r-10">
                                     {/* Icon */}
                                     <div className="fbox-ico-wrap">
                                         <div className="fbox-ico ico-50">
-                                            <div className="shape-ico color--blue-400">
+                                            <div className="shape-ico color--theme-green-fill">
                                                 {/* Vector Icon */}
                                                 <span className="flaticon-graphic" />
                                                 {/* Shape */}
@@ -90,11 +90,11 @@ export default function Invoicly_whychoose() {
                             </div>	{/* END FEATURE BOX #3 */}
                             {/* FEATURE BOX #4 */}
                             <div className="col">
-                                <div className="text-center fb-4 wow fadeInUp  p-4 bg--blue-100 r-10">
+                                <div className="text-center fb-4 wow fadeInUp  p-4 bg--green-100 r-10">
                                     {/* Icon */}
                                     <div className="fbox-ico-wrap">
                                         <div className="fbox-ico ico-50">
-                                            <div className="shape-ico color--blue-400">
+                                            <div className="shape-ico color--theme-green-fill">
                                                 {/* Vector Icon */}
                                                 <span className="flaticon-wireframe" />
                                                 {/* Shape */}
@@ -113,11 +113,11 @@ export default function Invoicly_whychoose() {
                             </div>	{/* END FEATURE BOX #4 */}
                             {/* FEATURE BOX #5 */}
                             <div className="col">
-                                <div className="text-center fb-5 wow fadeInUp p-4 bg--blue-100 r-10">
+                                <div className="text-center fb-5 wow fadeInUp p-4 bg--green-100 r-10">
                                     {/* Icon */}
                                     <div className="fbox-ico-wrap">
                                         <div className="fbox-ico ico-50">
-                                            <div className="shape-ico color--blue-400">
+                                            <div className="shape-ico color--theme-green-fill">
                                                 {/* Vector Icon */}
                                                 <span className="flaticon-trophy" />
                                                 {/* Shape */}
@@ -136,11 +136,11 @@ export default function Invoicly_whychoose() {
                             </div>	{/* END FEATURE BOX #5 */}
                             {/* FEATURE BOX #6 */}
                             <div className="col">
-                                <div className="text-center fb-6 wow fadeInUp p-4 bg--blue-100 r-10">
+                                <div className="text-center fb-6 wow fadeInUp p-4 bg--green-100 r-10">
                                     {/* Icon */}
                                     <div className="fbox-ico-wrap">
                                         <div className="fbox-ico ico-50">
-                                            <div className="shape-ico color--blue-400 ">
+                                            <div className="shape-ico color--theme-green-fill ">
                                                 {/* Vector Icon */}
                                                 <span className="flaticon-search-engine-1" />
                                                 {/* Shape */}

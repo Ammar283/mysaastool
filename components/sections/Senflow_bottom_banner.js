@@ -7,7 +7,7 @@ export default function Sendflow_bottom_banner() {
             <section id="banner-13" className="pt-100 banner-section">
                 <div className="container">
                     {/* BANNER-13 WRAPPER */}
-                    <div className="banner-13-wrapper bg--green-400 bg--scroll r-16 block-shadow">
+                    <div className="banner-13-wrapper bg--green-500 bg--scroll r-16 block-shadow">
                         <div className="banner-overlay">
                             <div className="row d-flex align-items-center">
                                 {/* BANNER-13 TEXT */}
@@ -20,7 +20,7 @@ export default function Sendflow_bottom_banner() {
                                         </p>
                                         {/* Button */}
                                         <div className="btns-group">
-                                            <Link href="#banner-13" className="btn r-04 btn--green color-white   hover--black ">Get started Now</Link>
+                                            <Link href="#banner-13" className="btn r-04 btn--white color-white   hover--black ">Get started Now</Link>
                                             <Link href="#features-5" className="btn r-04 btn--tra-black hover--black">Schedule a Demo</Link>
                                         </div>
                                     </div>

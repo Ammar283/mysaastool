@@ -254,7 +254,7 @@ export default function Features2_13() {
                                     <div className="fbox-txt">
                                         <h6 className="s-20 w-700">BizWorks</h6>
                                         <p className="mb-2">Manage operations, track resources, and drive efficiency across your organization.</p>
-                                            <Link href="bizwork-page" className="tra-link ico-20 color--theme">
+                                            <Link href="bizworks-page" className="tra-link ico-20 color--theme">
                                                 Learn More <span className="flaticon-next" />
                                             </Link>
                                     </div>

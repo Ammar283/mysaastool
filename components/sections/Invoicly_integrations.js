@@ -4,7 +4,7 @@ import Link from "next/link"
 export default function Invoicly_integrations() {
     return (
         <>
-            <section id="integrations-1" className="pt-100 bg--blue-100 pb-100 integrations-section">
+            <section id="integrations-1" className="pt-100 bg--green-100 pb-100 integrations-section">
                 <div className="container">
                     {/* SECTION TITLE */}
                     <div className="row justify-content-center">

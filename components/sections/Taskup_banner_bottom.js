@@ -7,12 +7,12 @@ export default function Taskup_banner_bottom() {
             <section id="banner-13" className="pt-100 banner-section">
                 <div className="container">
                     {/* BANNER-13 WRAPPER */}
-                    <div className="banner-13-wrapper bg--03 bg--scroll r-16 block-shadow">
+                    <div className="banner-13-wrapper bg--red-100 bg--scroll r-16 block-shadow">
                         <div className="banner-overlay">
                             <div className="row d-flex align-items-center">
                                 {/* BANNER-5 TEXT */}
                                 <div className="col-md-7">
-                                    <div className="banner-13-txt color--white">
+                                    <div className="banner-13-txt color--black">
                                         {/* Title */}
                                         <h2 className="s-46 w-700">Get Started with TaskUp Today
                                         </h2>
@@ -21,7 +21,7 @@ export default function Taskup_banner_bottom() {
                                         </p>
                                         <div className="btns-group mt-15">
                                     <Link href="#" className="btn btn--violet-500 r-04    hover--black">Start Free Trial</Link>
-                                    <Link href="#" className="btn r-04 btn--tra-white hover--black">Contact Sales</Link>
+                                    <Link href="#" className="btn r-04 btn--tra-black hover--black">Contact Sales</Link>
                                 </div>
                                     </div>
                                 </div>	{/* END BANNER-13 TEXT */}

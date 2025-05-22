@@ -22,7 +22,7 @@ export default function Hero10() {
                                 Empower restaurants to create stunning, multilingual food ordering websites in minutes with Orderly’s multi-tenant SaaS solution.
                                 </p>
                                 <div className="btns-group">
-                                    <Link href="#banner-13" className="btn r-04 btn--red-400 color-white  hover--black ">Get started Now</Link>
+                                    <Link href="#banner-13" className="btn r-04 btn--blue-500 color-white  hover--black ">Get started Now</Link>
                                     <Link href="#features-5" className="btn r-04 btn--white hover--black">Request a Demo</Link>
                                 </div>
                             </div>

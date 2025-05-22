@@ -20,8 +20,8 @@ export default function Hero13() {
                                 </p>
                                 {/* Button */}
                                 <div className="btns-group mt-15">
-                                    <Link href="#" className="btn btn--violet-400  r-04 ">Get Started Free</Link>
-                                    <Link href="#" className="btn r-04  hover--violet-400">Request a demo</Link>
+                                    <Link href="#" className="btn btn--red-400  r-04 ">Get Started Free</Link>
+                                    <Link href="#" className="btn r-04 btn--tra-black  hover--black">Request a demo</Link>
                                 </div>
                             </div>
                         </div>	{/* END HERO TEXT */}

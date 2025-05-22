@@ -41,7 +41,7 @@ export default function Invoicly_pricing() {
                                             <p className="color--grey">Perfect for freelancers and small businesses getting started.</p>
                                         </div>
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04 color-white btn--blue-400 hover--blue-400 ">Choose Starter</Link>
+                                        <Link href="#" className="pt-btn btn color--theme-green color-white  hover--green-400">Choose Starter</Link>
                                      
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}
@@ -72,7 +72,7 @@ export default function Invoicly_pricing() {
                                             <p className="color--grey">Ideal for growing businesses with multiple clients.</p>
                                         </div>
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04 color-white btn--blue-400 hover--blue-400 ">Choose Pro</Link>
+                                        <Link href="#" className="pt-btn btn color--theme-green color-white  hover--green-400 ">Choose Pro</Link>
                                      
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}
@@ -118,7 +118,7 @@ export default function Invoicly_pricing() {
                                             <p className="color--grey">Built for large businesses with complex needs.</p>
                                         </div>	{/* End Price */}
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04 color-white btn--blue-400 hover--blue-400 ">Choose Enterprise</Link>
+                                        <Link href="#" className="pt-btn btn color--theme-green color-white  hover--green-400 ">Choose Enterprise</Link>
                                       
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}

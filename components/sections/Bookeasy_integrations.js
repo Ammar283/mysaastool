@@ -7,7 +7,7 @@ export default function Bookeasy_integrations() {
             <section id="integrations-2" className=" integrations-section">
                 <div className="container">
                     {/* INTEGRATIONS-2 WRAPPER */}
-                    <div className=" integrations-2-wrapper mb-100 bg--violet-100 r-12 text-center">
+                    <div className=" integrations-2-wrapper mb-100 bg--red-100 r-12 text-center">
                         {/* SECTION TITLE */}
                         <div className="row justify-content-center">
                             <div className="col-md-10 col-lg-9">

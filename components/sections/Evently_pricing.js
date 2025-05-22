@@ -41,7 +41,7 @@ export default function Evently_pricing() {
                                             <p className="color--grey">Perfect for small events or first-time organizers.</p>
                                         </div>
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04   color-white btn--violet-400 hover--violet-400">Choose Starter</Link>
+                                        <Link href="#" className="btn r-04 color--theme-purple color-white color--theme-purple-pricing-hover">Choose Starter</Link>
                                      
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}
@@ -73,7 +73,7 @@ export default function Evently_pricing() {
                                             <p className="color--grey">Ideal for growing businesses and frequent events.</p>
                                         </div>
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04  color-white btn--violet-400 hover--violet-400">Choose Pro</Link>
+                                        <Link href="#" className="btn r-04 color--theme-purple color-white color--theme-purple-pricing-hover">Choose Pro</Link>
                                      
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}
@@ -120,7 +120,7 @@ export default function Evently_pricing() {
                                             <p className="color--grey">Built for large-scale events and organizations.</p>
                                         </div>	{/* End Price */}
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04    color-white btn--violet-400 hover--violet-400 ">Choose Enterprise</Link>
+                                        <Link href="#" className="btn r-04 color--theme-purple color-white color--theme-purple-pricing-hover ">Choose Enterprise</Link>
                                       
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}

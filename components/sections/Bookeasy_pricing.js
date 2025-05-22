@@ -41,7 +41,7 @@ export default function Bookeasy_pricing() {
                                             <p className="color--grey">Perfect for small businesses getting started with online bookings.</p>
                                         </div>
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04   color-white btn--violet-400 hover--violet-400">Choose Starter</Link>
+                                        <Link href="#" className="pt-btn btn r-04   color-white btn--red-400 hover--black">Choose Starter</Link>
                                      
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}
@@ -73,7 +73,7 @@ export default function Bookeasy_pricing() {
                                             <p className="color--grey">Ideal for growing businesses with multiple services and staff.</p>
                                         </div>
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04  color-white btn--violet-400 hover--violet-400">Choose Pro</Link>
+                                        <Link href="#" className="pt-btn btn r-04  color-white btn--red-400 hover--black">Choose Pro</Link>
                                      
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}
@@ -122,7 +122,7 @@ export default function Bookeasy_pricing() {
                                             <p className="color--grey">Tailored for large organizations with complex booking needs.</p>
                                         </div>	{/* End Price */}
                                         {/* Button */}
-                                        <Link href="#" className="pt-btn btn r-04    color-white btn--violet-400 hover--violet-400 ">Choose Enterprise</Link>
+                                        <Link href="#" className="pt-btn btn r-04    color-white btn--red-400 hover--black ">Choose Enterprise</Link>
                                       
                                     </div>	{/* END TABLE HEADER */}
                                     {/* PRICING FEATURES */}

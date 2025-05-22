@@ -7,7 +7,7 @@ export default function Evently_bottom_banner() {
             <section id="banner-13" className="pt-100 banner-section">
                 <div className="container">
                     {/* BANNER-13 WRAPPER */}
-                    <div className="banner-13-wrapper bg--violet-500 bg--scroll r-16 block-shadow">
+                    <div className="banner-13-wrapper bg--purple-500 bg--scroll r-16 block-shadow">
                         <div className="banner-overlay">
                             <div className="row d-flex align-items-center">
                                 {/* BANNER-5 TEXT */}
@@ -20,7 +20,7 @@ export default function Evently_bottom_banner() {
                                         </p>
                                         {/* Button */}
                                         <div className="btns-group mt-15">
-                                    <Link href="#" className="btn  btn--white-400   hover--black  r-04  ">Start Free Trial</Link>
+                                    <Link href="#" className="btn  btn--tra-white   hover--black  r-04  ">Start Free Trial</Link>
                                     <Link href="#" className="btn r-04 btn--tra-black hover--black    ">Contact Sales</Link>
                                 </div>
                                     </div>

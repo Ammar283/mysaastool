@@ -22,7 +22,7 @@ export default function Hero23() {
                                 <p className="p-xl">Streamline invoicing, expense tracking, and business management with our all-in-one SaaS accounting solution.
                                 </p>
                                 <div className="btns-group">
-                                    <Link href="#banner-13" className="btn r-04 btn--red-400 color-white  hover--black ">Get started Now</Link>
+                                    <Link href="#banner-13" className="btn r-04  color--theme-green color-white  hover--green-400 ">Get started Now</Link>
                                     <Link href="#features-5" className="btn r-04 btn--white hover--black">Request a Demo</Link>
                                 </div>
                             </div>

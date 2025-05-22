@@ -3,7 +3,7 @@
 export default function Evently_benefits() {
     return (
         <>
-            <section id="features-13" className="shape--bg shape--violet-100 pt-100 features-section division">
+            <section id="features-13" className="shape--bg shape--purple-100 pt-100 features-section division">
                 <div className="container">
                     <div className="row d-flex align-items-center">
                         {/* FEATURES-13 WRAPPER */}
@@ -15,7 +15,7 @@ export default function Evently_benefits() {
                                         <div id="fb-12-1" className="fbox-12 bg--white-100 block-shadow r-12 mb-30">
                                             {/* Icon */}
                                             <div className="fbox-ico ico-50">
-                                                <div className="shape-ico color--violet-500">
+                                                <div className="shape-ico  color--theme-purple-fill">
                                                     {/* Vector Icon */}
                                                     <span className="flaticon-graphics" />
                                                     {/* Shape */}
@@ -34,7 +34,7 @@ export default function Evently_benefits() {
                                         <div id="fb-12-2" className="fbox-12 bg--white-100 block-shadow r-12">
                                             {/* Icon */}
                                             <div className="fbox-ico ico-50">
-                                                <div className="shape-ico color--violet-500">
+                                                <div className="shape-ico  color--theme-purple-fill">
                                                     {/* Vector Icon */}
                                                     <span className="flaticon-idea" />
                                                     {/* Shape */}
@@ -55,7 +55,7 @@ export default function Evently_benefits() {
                                         <div id="fb-12-3" className="fbox-12 bg--white-100 block-shadow r-12 mb-30">
                                             {/* Icon */}
                                             <div className="fbox-ico ico-50">
-                                                <div className="shape-ico color--violet-500">
+                                                <div className="shape-ico  color--theme-purple-fill">
                                                     {/* Vector Icon */}
                                                     <span className="flaticon-graphic" />
                                                     {/* Shape */}
@@ -74,7 +74,7 @@ export default function Evently_benefits() {
                                         <div id="fb-12-4" className="fbox-12 bg--white-100 block-shadow r-12">
                                             {/* Icon */}
                                             <div className="fbox-ico ico-50">
-                                                <div className="shape-ico color--violet-500">
+                                                <div className="shape-ico  color--theme-purple-fill">
                                                     {/* Vector Icon */}
                                                     <span className="flaticon-search-engine-1" />
                                                     {/* Shape */}
